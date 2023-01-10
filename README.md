@@ -1,2 +1,2 @@
-# SQL
-Formação SQL Database Specialist
+# Formação SQL Database Specialist
+
